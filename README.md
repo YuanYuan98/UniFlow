@@ -21,7 +21,7 @@ UniFlow consists of three main parts: (i) spatio-temporal patching, (ii) sequent
 ![OverallArchi](./assets/model_all.jpg "")
 
 ## Data
-We use multiple datasets to demonstrate the effectiveness of UniFlow. To access the datasets, please refer to [data readme]([https://github.com/tsinghua-fib-lab/UniST/blob/main/dataset/README.md](https://github.com/YuanYuan98/KDD25-submission-78/blob/main/dataset/UniFlow_dataset/README.md).
+We use multiple datasets to demonstrate the effectiveness of UniFlow. To access the datasets, please refer to [data readme](https://github.com/YuanYuan98/KDD25-submission-78/blob/main/dataset/UniFlow_dataset/README.md).
 
 
 ## ⚙️ Installation
