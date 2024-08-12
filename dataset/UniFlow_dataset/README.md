@@ -23,7 +23,7 @@ To download the datasets, please follow these steps:
 Each dataset contains two files: `<name>.npy` and `<name>_ts.npy`, representing the spatio-temporal data and the corresponding timestamps, respectively.
 
 
-- `X` from `<name>.npy`: This file contains the spatio-temporal data with a shape of $\(T \times H \times W \times 1\)$, where
+- `X` from `<name>.npy`: This file contains the spatio-temporal data with a shape of $T \times H \times W \times 1$, where
   -  $T$ is the total number of time steps,
   -  $H$ and $W$ represent the grid partition dimensions.
 - `timestamps` from `<name>_ts.npy`: This file includes timestamp information, detailing the day of the week and time of day, with a shape of $T \times 2$.
