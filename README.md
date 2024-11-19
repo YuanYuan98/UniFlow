@@ -1,9 +1,8 @@
-# KDD25-submission-78
+# UniFlow
 
-This is the official implementation of our KDD25 submission: **A Foundation Model for Unified Urban Spatio-Temporal Flow Prediction**.
+This is the official implementation of our paper: **A Foundation Model for Unified Urban Spatio-Temporal Flow Prediction**.
 
 -----
-
 
 The repo currently includes code implementations for the following tasks:
 
